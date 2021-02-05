@@ -122,6 +122,7 @@ class App extends Component {
           <table className="table border shadow">
             <thead className="thead-dark">
               <tr>
+                <th></th>
                 <th>Title</th>
                 <th>Description</th>
                 <th></th>
